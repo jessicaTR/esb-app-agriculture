@@ -2,7 +2,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.thomsonreuters.ce</groupId>
 	<artifactId>Agriculture</artifactId>
-	<version>01.00.01-SNAPSHOT</version>
+	<version>01.00.01</version>
 	<name>AgricultureLoader</name>
 	
 	
